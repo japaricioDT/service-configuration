@@ -3,4 +3,4 @@ spring:
   name: modulofuncionalidad01
 
 environment:
- varialbe: valor de la variable
+ variable: valor de la variable
