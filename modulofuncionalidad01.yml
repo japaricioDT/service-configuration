@@ -1,9 +1,9 @@
 server:
- port: 8899
+  port: 8899
 
 spring:
- application:
-  name: modulofuncionalidad01
+  application:
+    name: modulofuncionalidad01
 
 environment:
- variable: valor de la variable
+  variable: Esto es una prueba de variable
